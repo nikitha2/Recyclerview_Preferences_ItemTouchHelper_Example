@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RecyclerviewPreferencesItemTouchHelperExample1</string>
+    <string name="white">white</string>
+    <string name="yellow">yellow</string>
+    <string name="gray">gray</string>
+    <string name="color_key">color_key</string>
+    <string name="color_title">Entry color</string>
+
+    <string name="colorbackground_key">Backgroundcolor_key</string>
+    <string name="colorbackground_title">Background color</string>
+
+    <string name="settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

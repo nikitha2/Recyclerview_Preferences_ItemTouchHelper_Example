@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="pref_color_option_labels">
+    <item>@string/white</item>
+    <item>@string/yellow</item>
+    <item>@string/gray</item>
+    </array>
+
+    <array name="pref_color_option_values">
+    <item>@string/white</item>
+    <item>@string/yellow</item>
+    <item>@string/gray</item>
+    </array>
+</resources>
